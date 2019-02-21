@@ -1,0 +1,6 @@
+c:\users\nick\documents\visual studio 2017\Projects\ID3Tags\ID3Tags\bin\Debug\ID3Tags.exe.config
+c:\users\nick\documents\visual studio 2017\Projects\ID3Tags\ID3Tags\bin\Debug\ID3Tags.exe
+c:\users\nick\documents\visual studio 2017\Projects\ID3Tags\ID3Tags\bin\Debug\ID3Tags.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ID3Tags\ID3Tags\obj\Debug\ID3Tags.exe
+c:\users\nick\documents\visual studio 2017\Projects\ID3Tags\ID3Tags\obj\Debug\ID3Tags.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ID3Tags\ID3Tags\obj\Debug\ID3Tags.csprojResolveAssemblyReference.cache
